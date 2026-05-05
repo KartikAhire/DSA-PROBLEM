@@ -1,4 +1,4 @@
-# 🚀 DSA Problem Solving (2026)
+# 🚀 DSA Problem Solving 
 
 This repository contains my structured practice of Data Structures and Algorithms (DSA).
 
