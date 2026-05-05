@@ -1,0 +1,15 @@
+arr = [1,2,3,4,5]
+num = 4
+
+index = 0 
+for i in range(len(arr)):
+    if arr[i] == num :
+        index = i 
+        break
+    
+    
+print(index)
+    
+        
+   
+        
